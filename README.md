@@ -1,0 +1,2 @@
+# ZPScreenShot
+本Demo主要介绍了如何给屏幕进行截图，并且封装了一个UIImage类的分类用来给指定的View截取图片。
